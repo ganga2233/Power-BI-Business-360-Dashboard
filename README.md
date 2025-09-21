@@ -2,9 +2,9 @@
 
 ## 🔗 Live Dashboard
 
-> **Interactive report:** Replace the placeholder link below with your Power BI published/report link (if you published it to Power BI Service).
 
-`https://app.powerbi.com/links/REPLACE_WITH_YOUR_LINK`
+
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2U0NDdiYmEtYzBkYS00NGFiLWE0YjQtZTUxODE4NjljNWJiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=056356e40818b8dab3c0)
 
 ---
 
@@ -103,58 +103,15 @@ Customer Revenue = SUM('Sales'[Revenue])
 
 ## 📸 Screenshots
 
-Add exported PNGs of your main report pages to `/screenshots` and reference them here.
+Here are some Quick Snap of the Dashboard:
 
-Example:
-
-```
-/screenshots/executive_overview.png
-/screenshots/sales_dashboard.png
-/screenshots/finance_dashboard.png
-```
 
 ---
 
-## 📂 Repository Structure (recommended)
-
-```
-business-360-powerbi/
-├── README.md
-├── business-360.pbix
-├── /data                 # (optional) sample or anonymized datasets
-├── /screenshots
-├── /docs                 # project notes, ETL steps, DAX catalog
-└── LICENSE
-```
-
----
-
-## 🚀 How to use
-
-1. Clone the repo
-2. Open `business-360.pbix` in Power BI Desktop
-3. If data connections are to external sources, update connection strings or replace with sample CSVs in `/data`
-4. Refresh data and explore report pages
-
----
-
-## ✅ Documentation & Notes
-
-* Add a `docs/DAX-measures.md` file containing all custom DAX measures with short descriptions and use-cases.
-* Add `docs/data_dictionary.md` explaining table/column meanings and any data transformations performed in Power Query.
-
----
 
 ## 💬 Feedback & Contact
 
-If you have suggestions or want collaboration/help, create an issue or contact: `your.email@example.com`.
+If you have suggestions or want collaboration/help, create an issue or contact: gangachakradhar2003@gmail.com.
 
 ---
 
-## 📜 License
-
-Add a license file (e.g., `LICENSE` with MIT) if you want to make this repo open-source.
-
----
-
-*Made with ❤️ — ready for showcasing in portfolios, LinkedIn, and recruiter applications.*
