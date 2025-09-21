@@ -105,13 +105,19 @@ Customer Revenue = SUM('Sales'[Revenue])
 
 Here are some Quick Snap of the Dashboard:
 
+- [Home Page](https://github.com/ganga2233/Power-BI-Business-360-Dashboard/blob/main/Dashboard%20%20Snaps/Home%20View%20Snap.png)
+- [Sales Veiw](https://github.com/ganga2233/Power-BI-Business-360-Dashboard/blob/main/Dashboard%20%20Snaps/Sales%20View%20Snap.png)
+- [finance View](https://github.com/ganga2233/Power-BI-Business-360-Dashboard/blob/main/Dashboard%20%20Snaps/Finance%20view%20Snap.png)
+- [Marketing View](https://github.com/ganga2233/Power-BI-Business-360-Dashboard/blob/main/Dashboard%20%20Snaps/Marketing%20View%20Snap.png)
+- [Logistic View](https://github.com/ganga2233/Power-BI-Business-360-Dashboard/blob/main/Dashboard%20%20Snaps/Logistic%20Snap.png)
+- [executive View](https://github.com/ganga2233/Power-BI-Business-360-Dashboard/blob/main/Dashboard%20%20Snaps/Executive%20Snap.png)
 
 ---
 
 
 ## 💬 Feedback & Contact
 
-If you have suggestions or want collaboration/help, create an issue or contact: gangachakradhar2003@gmail.com.
+If you have suggestions or want collaboration/help, create an issue or contact: LinkedIn Profile [Chakradhar_dulla](https://www.linkedin.com/in/ganga-chakradhar-dulla-8a5566276/)
 
 ---
 
